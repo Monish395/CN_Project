@@ -5,12 +5,6 @@ One player sets the secret word and clue (Chooser), while the other guesses lett
 
 ---
 
-📁 Project Structure
-
-
-
----
-
 🚀 Features
 
 - 🎭 **Chooser & Guesser roles** with role-specific interactions
@@ -35,12 +29,13 @@ One player sets the secret word and clue (Chooser), while the other guesses lett
 🖥️ How to Run
 
 1. Start the Server
+    - Run the Server.java file
 
 2. Run the Client (LibGDX UI)
-- Make sure you have your LibGDX environment set up.
-- cd client
-- Compile and run using your IDE or Gradle
-- Both clients should connect to the same server. Use two windows or machines.
+    - Make sure you have your LibGDX environment set up.
+    - cd client
+    - Compile and run using your IDE or Gradle
+    - Both clients should connect to the same server (same Wi=Fi). Use two windows or machines(connected to same Wi-Fi).
 
 ---
 
@@ -68,13 +63,6 @@ Feel free to raise issues or contribute!
 
 ---
 
-✅ Future Improvements (TODO)
+✅ Future Improvements
 - Add AI mode (play vs computer)
 - Score tracking
-
----
-
-🛠 How to Use
-
-Save this as `README.md` in your repo root.  
-You can tweak any sections (especially the **Future Improvements** and **Contact**) to match your plans.
